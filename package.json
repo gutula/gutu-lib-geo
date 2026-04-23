@@ -6,11 +6,11 @@
     "framework/libraries/*"
   ],
   "scripts": {
-    "build": "bun --cwd framework/libraries/geo run build",
-    "typecheck": "bun --cwd framework/libraries/geo run typecheck",
-    "lint": "bun --cwd framework/libraries/geo run lint",
-    "test": "bun --cwd framework/libraries/geo run test",
-    "test:unit": "bun --cwd framework/libraries/geo run test:unit",
+    "build": "bun run --cwd framework/libraries/geo build",
+    "typecheck": "bun run --cwd framework/libraries/geo typecheck",
+    "lint": "bun run --cwd framework/libraries/geo lint",
+    "test": "bun run --cwd framework/libraries/geo test",
+    "test:unit": "bun run --cwd framework/libraries/geo test:unit",
     "docs:summary": "node scripts/docs-summary.mjs",
     "docs:check": "node scripts/docs-check.mjs"
   }

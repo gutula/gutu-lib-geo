@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-geo",
   "packageId": "geo",
   "displayName": "Geo",
+  "packageCount": 1,
   "group": "Core Data And Query",
   "maturity": "Hardened",
   "description": "Geo abstraction and provider contracts.",

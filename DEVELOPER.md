@@ -35,6 +35,7 @@ Provides typed geographic helpers and location-oriented utility surfaces for pac
 | Package ID | `geo` |
 | Display Name | Geo |
 | Import Name | `@platform/geo` |
+| Canonical Namespace Target | `@gutu/geo` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides typed geographic helpers and location-oriented utility surfaces for pac
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | No |
+| Legacy Compatibility IDs | `@platform/geo` |
 
 ### Dependency interpretation
 
